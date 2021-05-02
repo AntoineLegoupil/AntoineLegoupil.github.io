@@ -1,0 +1,101 @@
+* [33mcommit f38e6043051a451c50cf934d9cb0b35959a1d4aa[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+[31m|[m Author: lenormandien <71864945+lenormandien@users.noreply.github.com>
+[31m|[m Date:   Mon Apr 26 15:28:55 2021 +0200
+[31m|[m 
+[31m|[m     Delete js.js
+[31m|[m 
+* [33mcommit 5c8837cbf4dfb71cd27ff4b8f10f44c78fb864f5[m
+[31m|[m Author: lenormandien <71864945+lenormandien@users.noreply.github.com>
+[31m|[m Date:   Mon Apr 26 15:28:33 2021 +0200
+[31m|[m 
+[31m|[m     Create js.js
+[31m|[m 
+* [33mcommit a813229d8166bf40344c85441caf536d16913a15[m
+[31m|[m Author: lenormandien <71864945+lenormandien@users.noreply.github.com>
+[31m|[m Date:   Mon Apr 26 15:27:55 2021 +0200
+[31m|[m 
+[31m|[m     Create style.css
+[31m|[m 
+* [33mcommit 4b03f6263d9307a554c385bf0a84f6b6b989a6e5[m
+[31m|[m Author: lenormandien <71864945+lenormandien@users.noreply.github.com>
+[31m|[m Date:   Fri Apr 16 12:20:57 2021 +0200
+[31m|[m 
+[31m|[m     Delete weizmann_institute_of_science.jpg
+[31m|[m 
+* [33mcommit 52eb351c8939a394c367a63c9df74ca6c216793f[m
+[31m|[m Author: lenormandien <71864945+lenormandien@users.noreply.github.com>
+[31m|[m Date:   Fri Apr 16 12:20:50 2021 +0200
+[31m|[m 
+[31m|[m     Delete style.css
+[31m|[m 
+* [33mcommit 98cef1db29b42b971cc1f8803850955aaa98e399[m
+[31m|[m Author: lenormandien <71864945+lenormandien@users.noreply.github.com>
+[31m|[m Date:   Fri Apr 16 12:20:41 2021 +0200
+[31m|[m 
+[31m|[m     Delete pic_shafi.jpg
+[31m|[m 
+* [33mcommit 4f9a803069056d4f364edb7c1b972ddfbddebd42[m
+[31m|[m Author: lenormandien <71864945+lenormandien@users.noreply.github.com>
+[31m|[m Date:   Fri Apr 16 12:20:34 2021 +0200
+[31m|[m 
+[31m|[m     Delete page4.html
+[31m|[m 
+* [33mcommit cb15010a856f75a42075b0b0cd268fe7871d1898[m
+[31m|[m Author: lenormandien <71864945+lenormandien@users.noreply.github.com>
+[31m|[m Date:   Fri Apr 16 12:20:28 2021 +0200
+[31m|[m 
+[31m|[m     Delete page3.html
+[31m|[m 
+* [33mcommit d09b9e3b2c1b09a52cd0e3ca4269952df973d014[m
+[31m|[m Author: lenormandien <71864945+lenormandien@users.noreply.github.com>
+[31m|[m Date:   Fri Apr 16 12:20:13 2021 +0200
+[31m|[m 
+[31m|[m     Delete page2.html
+[31m|[m 
+* [33mcommit 57d9897702c2ef0f88196944234335864e9a2230[m
+[31m|[m Author: lenormandien <71864945+lenormandien@users.noreply.github.com>
+[31m|[m Date:   Fri Apr 16 12:20:00 2021 +0200
+[31m|[m 
+[31m|[m     Update index.html
+[31m|[m 
+* [33mcommit 4b66673e5f40a4f651774d50e892d8ab773fe8b0[m
+[31m|[m Author: lenormandien <71864945+lenormandien@users.noreply.github.com>
+[31m|[m Date:   Fri Apr 16 12:18:39 2021 +0200
+[31m|[m 
+[31m|[m     Delete logosite.png
+[31m|[m 
+* [33mcommit 3c31b32d11127d0b5f2bcb7fa73509c48e7997b8[m
+[31m|[m Author: lenormandien <71864945+lenormandien@users.noreply.github.com>
+[31m|[m Date:   Fri Apr 16 12:18:31 2021 +0200
+[31m|[m 
+[31m|[m     Delete cryptographie2.jpg
+[31m|[m 
+* [33mcommit fccc8e34f2495b2d6e7ef53ce27200ee5d5fbd5d[m
+[31m|[m Author: lenormandien <sylvain.mahier@ac-normandie.fr>
+[31m|[m Date:   Fri Apr 16 10:13:05 2021 +0000
+[31m|[m 
+[31m|[m     Premier commit
+[31m|[m 
+* [33mcommit 71a341ea5c650c5d1df9949fdd200ad6539dd603[m
+[31m|[m Author: lenormandien <71864945+lenormandien@users.noreply.github.com>
+[31m|[m Date:   Fri Apr 16 11:49:39 2021 +0200
+[31m|[m 
+[31m|[m     Update README.md
+[31m|[m 
+* [33mcommit bb5814de524c8762b2f38ab664c8c596a9afddb6[m
+[31m|[m Author: lenormandien <71864945+lenormandien@users.noreply.github.com>
+[31m|[m Date:   Fri Apr 16 09:23:09 2021 +0200
+[31m|[m 
+[31m|[m     Update README.md
+[31m|[m 
+* [33mcommit 7830b0c05acad991dfab2eaa1678c360d286eef0[m
+[31m|[m Author: lenormandien <71864945+lenormandien@users.noreply.github.com>
+[31m|[m Date:   Fri Apr 16 09:22:14 2021 +0200
+[31m|[m 
+[31m|[m     Create index.html
+[31m|[m 
+* [33mcommit cda6feb071ae795126654cbc08341b7e08e47c24[m
+  Author: lenormandien <71864945+lenormandien@users.noreply.github.com>
+  Date:   Fri Apr 16 09:21:44 2021 +0200
+  
+      Initial commit
